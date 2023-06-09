@@ -1,0 +1,21 @@
+HTTrack3.49-2 launched on Mon, 17 Apr 2023 11:23:50 at https://atixscripts.info/demo/html/businessz/index.html
+(winhttrack https://atixscripts.info/demo/html/businessz/index.html -O "/Users/gerianoadikaputra/Programs/httrack/bussinez" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:25:00	Error: 	"Not Found" (404) at link https://atixscripts.info/demo/html/businessz/assets/images//apple-touch-icon-72x72-precomposed.png (from https://atixscripts.info/demo/html/businessz/index.html)
+11:26:32	Error: 	"Not Found" (404) at link https://atixscripts.info/demo/html/businessz/assets/revolution/css/openhand.cur (from https://atixscripts.info/demo/html/businessz/assets/revolution/css/settings.css)
+11:26:32	Error: 	"Not Found" (404) at link https://atixscripts.info/demo/html/businessz/assets/revolution/css/closedhand.cur (from https://atixscripts.info/demo/html/businessz/assets/revolution/css/settings.css)
+11:26:32	Error: 	"Not Found" (404) at link https://atixscripts.info/demo/html/businessz/assets/revolution/assets/gridtile.png (from https://atixscripts.info/demo/html/businessz/assets/revolution/css/settings.css)
+11:26:32	Error: 	"Not Found" (404) at link https://atixscripts.info/demo/html/businessz/assets/revolution/assets/gridtile_white.png (from https://atixscripts.info/demo/html/businessz/assets/revolution/css/settings.css)
+11:26:32	Error: 	"Not Found" (404) at link https://atixscripts.info/demo/html/businessz/assets/revolution/assets/gridtile_3x3.png (from https://atixscripts.info/demo/html/businessz/assets/revolution/css/settings.css)
+11:26:32	Error: 	"Not Found" (404) at link https://atixscripts.info/demo/html/businessz/assets/revolution/assets/gridtile_3x3_white.png (from https://atixscripts.info/demo/html/businessz/assets/revolution/css/settings.css)
+11:26:32	Error: 	"Not Found" (404) at link https://atixscripts.info/demo/html/businessz/assets/revolution/assets/coloredbg.png (from https://atixscripts.info/demo/html/businessz/assets/revolution/css/settings.css)
+11:26:32	Error: 	"Not Found" (404) at link https://atixscripts.info/demo/html/businessz/assets/revolution/assets/loader.gif (from https://atixscripts.info/demo/html/businessz/assets/revolution/css/settings.css)
+11:26:32	Error: 	"Not Found" (404) at link https://atixscripts.info/demo/html/businessz/assets/css/owl.video.play.png (from https://atixscripts.info/demo/html/businessz/assets/css/lib.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 42 seconds : 162 links scanned, 151 files written (8389978 bytes overall) [5657973 bytes received at 34925 bytes/sec], 4256881 bytes transferred using HTTP compression in 61 files, ratio 33%, 20.2 requests per connection
+(10 errors, 0 warnings, 0 messages)
