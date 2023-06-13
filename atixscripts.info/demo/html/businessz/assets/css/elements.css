@@ -96,7 +96,7 @@
 	margin-left: 30px;
 }
 .top-header .top-left span i {
-	color: #ef5252;
+	color: #004586;
 	margin-right: 6px;
 }
 .top-header .top-left span a {
@@ -108,7 +108,7 @@
 	transition: all 1s ease 0s;
 }
 .top-header .top-left span a:hover {
-	color: #ef5252;
+	color: #004586;
 }
 .top-header .top-right {
 	float: right;
@@ -132,7 +132,7 @@
 	font-size: 13px;
 }
 .top-header .top-right ul li a:hover { 
-	color: #ef5252;
+	color: #004586;
 }
 
 /* - Menu Block */
@@ -351,7 +351,7 @@
 	display: inline-block;
 }
 .btm-ftr-left > a > span {
-	color: #ef5252;
+	color: #004586;
 	font-weight: 900;
 }
 .btm-ftr-center > p {
@@ -372,7 +372,7 @@
 }
 .btm-ftr-right > a:hover {
 	background-color: #fff;
-	color: #217DF6;
+	color: #004586;
 }
 .btm-ftr-right > a i {
 	transform: rotate(-45deg);
@@ -403,7 +403,7 @@
 	text-transform: uppercase;
 }
 .section-header h3 > span {
-	color: #217DF6;
+	color: #004586;
 }
 .section-header p {
 	color: #222222;
@@ -432,7 +432,7 @@
 	text-transform: uppercase;
 }
 .page-banner h3 > span {
-	color: #ef5252;
+	color: #004586;
 }
 .page-banner .breadcrumb {
 	background-color: transparent;
@@ -499,7 +499,7 @@
 	direction: ltr;
 }
 .txt-color {
-	color: #217DF6 !important;
+	color: #004586 !important;
 }
 .slide-btn-buy-now::before,
 .slide-btn-buy-now::after {
@@ -511,8 +511,8 @@
 	transition: all 0.5s ease 0s;
 }
 .slide-btn-buy-now::before {
-	border-left: 5px solid #ef5252;
-	border-right: 5px solid #ef5252;
+	border-left: 5px solid #004586;
+	border-right: 5px solid #004586;
 	left: -4px;
 	right: -4px;
 	height: 10px;
@@ -523,8 +523,8 @@
 	-ms-transform: translate(0%,-50%);
 }
 .slide-btn-buy-now::after {
-	border-top: 5px solid #ef5252;
-	border-bottom: 5px solid #ef5252;
+	border-top: 5px solid #004586;
+	border-bottom: 5px solid #004586;
 	left: 0;
 	right: 0;
 	bottom: -4px;
@@ -565,7 +565,7 @@
 }
 #home_slider_1 .hermes .tp-bullet.selected { 
 	background-color: #fff; 
-	border-color: #217DF6;
+	border-color: #004586;
 }
 #home_slider_1 .hermes .tp-bullet::after {
 	display: none;
@@ -654,8 +654,8 @@
     transition: all 0.5s ease 0s;
 }
 #home_slider_2 .slide-btn-buy-now::before {
-    border-left: 5px solid #ef5252;
-    border-right: 5px solid #ef5252;
+    border-left: 5px solid #004586;
+    border-right: 5px solid #004586;
     left: -4px;
     right: -4px;
     height: 10px;
@@ -666,8 +666,8 @@
     -ms-transform: translate(0%, -50%);
 }
 #home_slider_2 .slide-btn-buy-now::after {
-    border-top: 5px solid #ef5252;
-    border-bottom: 5px solid #ef5252;
+    border-top: 5px solid #004586;
+    border-bottom: 5px solid #004586;
     left: 0;
     right: 0;
     bottom: -4px;
@@ -711,7 +711,7 @@
 }
 #home_slider_2 .hermes .tp-bullet.selected {
     background-color: #fff;
-    border-color: #ef5252;
+    border-color: #004586;
 }
 #home_slider_2 .hermes .tp-bullet::after {
     display: none;
@@ -742,8 +742,8 @@
     transition: all 0.5s ease 0s;
 }
 .slide-btn-buy-now::before {
-    border-left: 5px solid #ef5252;
-    border-right: 5px solid #ef5252;
+    border-left: 5px solid #004586;
+    border-right: 5px solid #004586;
     left: -4px;
     right: -4px;
     height: 10px;
@@ -754,8 +754,8 @@
     -ms-transform: translate(0%, -50%);
 }
 .slide-btn-buy-now::after {
-    border-top: 5px solid #ef5252;
-    border-bottom: 5px solid #ef5252;
+    border-top: 5px solid #004586;
+    border-bottom: 5px solid #004586;
     left: 0;
     right: 0;
     bottom: -4px;
@@ -1202,7 +1202,7 @@
 	transition: all 1s ease 0s;
 }
 .srv-box:hover > i {
-	background-color: #ef5252;
+	background-color: #004586;
 }
 .srv-box > h3 {
 	color: #333333;
@@ -1220,7 +1220,7 @@
 	transition: all 1s ease 0s;
 }
 .srv-box:hover > h3 {
-	color: #ef5252;
+	color: #004586;
 }
 .srv-box > p {
 	color: #333333;
@@ -1262,7 +1262,7 @@
 	transition: all 1s ease 0s;
 }
 .services-style-2 .srv-box:hover i { 
-	background-color: #ef5252;
+	background-color: #004586;
 }
 
 /* - Services Section 3 */
@@ -1301,7 +1301,7 @@
 	transition: all 1s ease 0s;
 }
 .services-section3 .srv-box:hover h3 {
-	color: #ef5252;
+	color: #004586;
 }
 .services-section3 .srv-box span {
 	background-color: #f1f1f1;
@@ -1315,7 +1315,7 @@
 	top: 0;
 }
 .services-section3 .srv-box:hover span {
-	background-color: #ef5252;
+	background-color: #004586;
 }
 .services-section3 .srv-box span > i {
 	color: #222222;
@@ -1433,7 +1433,7 @@
 	transition: all ease 5s;
 }
 .skill-block > a {
-	background-color: #ef5252;
+	background-color: #004586;
 	color: #fff;
 	display: inline-block;
 	font-family: 'Montserrat', sans-serif;
@@ -1819,7 +1819,7 @@
 	letter-spacing: 1.4px;
 }
 .portfolio-category ul li a::before {
-	background-color: #ef5252;
+	background-color: #004586;
 	content: "";
 	display: inline-block;
 	position: absolute;
@@ -1938,8 +1938,8 @@
 	transition-delay: 0.3s;
 }
 .portfolio-content .portfolio-detail > i::after {
-	border-left: 5px solid #ef5252;
-	border-right: 5px solid #ef5252;
+	border-left: 5px solid #004586;
+	border-right: 5px solid #004586;
 	top: 50%;
 	left: 123.5px;
 	right: 123.5px;
@@ -1950,8 +1950,8 @@
 	height: 74px;
 }
 .portfolio-content .portfolio-detail > i::before {
-	border-top: 5px solid #ef5252;
-	border-bottom: 5px solid #ef5252;
+	border-top: 5px solid #004586;
+	border-bottom: 5px solid #004586;
 	left: 0;
 	right: 0;
 	bottom: 123.5px;
@@ -1978,7 +1978,7 @@
 	transition-delay: 0.4s;
 }
 .portfolio-content .portfolio-detail > a {
-	background-color: #ef5252;
+	background-color: #004586;
 	border-radius: 50%;
 	position: absolute;
 	left: 0;
@@ -2928,7 +2928,7 @@ article.type-post .tags .tagcloude a:hover {
 	transition: all 1s ease 0s;
 }
 .widget_follow ul > li > a:hover {
-	background-color: #0078d7;
+	background-color: #004586;
 }
 
 /* - Contact Section */
@@ -3001,8 +3001,8 @@ article.type-post .tags .tagcloude a:hover {
 	transition: all 0.5s ease 0s;
 }
 .contact-form button::before {
-	border-left: 5px solid #ef5252;
-	border-right: 5px solid #ef5252;
+	border-left: 5px solid #004586;
+	border-right: 5px solid #004586;
 	left: -4px;
 	right: -4px;
 	height: 10px;
@@ -3013,8 +3013,8 @@ article.type-post .tags .tagcloude a:hover {
 	-ms-transform: translate(0%, -50%);
 }
 .contact-form button::after {
-	border-top: 5px solid #ef5252;
-	border-bottom: 5px solid #ef5252;
+	border-top: 5px solid #004586;
+	border-bottom: 5px solid #004586;
 	left: 0;
 	right: 0;
 	bottom: -4px;
@@ -3093,7 +3093,7 @@ article.type-post .tags .tagcloude a:hover {
 	transition: all 1s ease 0s;
 }
 .contact-detail > ul > li > a:hover {
-	background-color: #ef5252;
+	background-color: #004586;
 	border-color: transparent;
 	color: #fff;
 }
@@ -3186,7 +3186,7 @@ article.type-post .tags .tagcloude a:hover {
 	transition: all 1s ease 0s;
 }
 .process-box .process-cnt > i {
-	color: #217DF6;
+	color: #004586;
 	font-size: 60px;
 	display: block;
 	margin: 0 20px;
@@ -3259,7 +3259,7 @@ article.type-post .tags .tagcloude a:hover {
 }
 .process-section2 .process-box:hover .process-cnt > i,
 .process-section2 .process-box:hover .process-cnt > h4 {
-	color: #217DF6;
+	color: #004586;
 }
 .process-section2 .process-box > span::before { 
 	border-top-color: #fff;
@@ -3688,7 +3688,7 @@ article.type-post .tags .tagcloude a:hover {
 	.header_s2 .menu-block.navbar-fixed-top .ownavigation .navbar-nav > .active > a:hover, 
 	.header_s2 .menu-block.navbar-fixed-top .ownavigation .navbar-nav li:hover > a, 
 	.header_s2 .menu-block.navbar-fixed-top .ownavigation .navbar-nav li a:hover {
-		color: #ef5252;
+		color: #004586;
 	}
 	
 	/* - Top Footer */
@@ -4021,7 +4021,7 @@ article.type-post .tags .tagcloude a:hover {
 	}
 	.menu-block #slideit:hover, 
 	.menu-block #closeit:hover {
-		color: #ef5252;
+		color: #004586;
 	}
 	.menu-block .ownavigation {
 		padding-left: 0;
@@ -4036,7 +4036,7 @@ article.type-post .tags .tagcloude a:hover {
 		margin: 21px 0;
 	}
 	.menu-block .ownavigation .navbar-toggle:hover {
-		background-color: #ef5252;
+		background-color: #004586;
 	}
 	.menu-block .ownavigation .ddl-switch {
 		background-color: #222222;
@@ -4053,7 +4053,7 @@ article.type-post .tags .tagcloude a:hover {
 	.menu-block .ownavigation .navbar-nav li a:hover, 
 	.menu-block .ownavigation .navbar-nav li a:focus,
 	.menu-block .ownavigation .navbar-nav li .dropdown-menu > li > a:hover {
-		color: #ef5252;
+		color: #004586;
 	}
 	
 	/* - Top Footer */
